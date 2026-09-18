@@ -1,0 +1,5 @@
+# Source/reference documents kept locally, not part of the published site
+*.pdf
+
+# macOS
+.DS_Store
